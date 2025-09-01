@@ -1,2 +1,2 @@
 # kizbasina
-Homeworks and project repository
+It contains some data analysis on Titanic dataset conducted by Patika.dev
